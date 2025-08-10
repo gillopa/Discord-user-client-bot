@@ -1,3 +1,5 @@
+<img width="898" height="434" alt="изображение" src="https://github.com/user-attachments/assets/98cb82a5-6320-4972-b984-3b45cc66611d" />
+
 # Discord Console Client
 
 ## Installation
