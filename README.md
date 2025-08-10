@@ -9,6 +9,6 @@
    ```bash
    cd Discord-user-client-bot/
    dotnet run
-4. Stop program and create directory 
+4. Stop the program and create directory 
    ```bash 
    mkdir <Project-dir>\bin\Debug\net9.0\photos
