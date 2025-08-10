@@ -5,7 +5,9 @@
 2. Clone this repo:
    ```bash
    git clone https://github.com/gillopa/Discord-user-client-bot.git
-3. ```bash
+3. Open project folder and start it
+   ```bash
+   cd Discord-user-client-bot/
    dotnet run
 4. Stop program and create directory 
    ```bash 
