@@ -9,4 +9,4 @@
    dotnet run
 4. Stop program and create directory 
    ```bash 
-   mkdir \bin\Debug\net9.0\photos
+   mkdir <Project-dir>\bin\Debug\net9.0\photos
